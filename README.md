@@ -28,4 +28,4 @@ I'm currently available for remote front-end or full-stack roles. Let’s connec
 
 ### 📫 How to Reach Me
 
-Feel free to contact me via GitHub or email.
+Feel free to contact me via email or add me on [LinkedIn](https://linkedin.com/in/danialjelvani)
