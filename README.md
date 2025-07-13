@@ -1,16 +1,16 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm Danial
 
 I'm a self-taught front-end developer with a passion for building fast, modern web applications using:
 
 - **Next.js (App Router & server-side features)**
 - **TypeScript & JavaScript**
 - **Tailwind CSS**
-- **RESTful APIs, MongoDB, and Cloudinary**
+- **RESTful APIs, databases, and cloud image services**
 - **Authentication with NextAuth and middleware**
 
-Check out my featured project below to see my work in action!
+Check out my featured project below to see my work in action:
 
-**[property-website-jd.vercel.app](https://property-website-jd.vercel.app/)**
+**🌐 [property-website-jd.vercel.app](https://property-website-jd.vercel.app/)**
 
 ---
 
@@ -28,4 +28,4 @@ I'm currently available for remote front-end or full-stack roles. Let’s connec
 
 ### 📫 How to Reach Me
 
-Feel free to contact me via GitHub or Email.
+Feel free to contact me via GitHub or email.
